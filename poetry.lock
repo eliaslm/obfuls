@@ -1719,14 +1719,14 @@ tests = ["pytest"]
 
 [[package]]
 name = "pyarmor"
-version = "7.7.4"
+version = "7.4.3"
 description = "A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts."
 category = "main"
 optional = false
 python-versions = "*"
 files = [
-    {file = "pyarmor-7.7.4-py2.py3-none-any.whl", hash = "sha256:e29e2b05683919ee72a62adb602e21fc0f933f01d57aade6d7e98d9b7563b088"},
-    {file = "pyarmor-7.7.4.zip", hash = "sha256:8a78756be546e7174f631cbfe248cd096218eeebaaf07b994eda2281157db11d"},
+    {file = "pyarmor-7.4.3-py2.py3-none-any.whl", hash = "sha256:df5e8980a2f8e57d737c6811aa2a0a2964073cb9b6322a3477d7e7e6d6478c68"},
+    {file = "pyarmor-7.4.3.zip", hash = "sha256:a89addb1e16b4941e9a948bb6854efdac3a1e64a33b77384ad1cff00e119e4e5"},
 ]
 
 [[package]]
@@ -2836,4 +2836,4 @@ cffi = ["cffi (>=1.11)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "3.10.3"
-content-hash = "a865e8314132242ece672b084fe62144fdb6aa95573ce26e13c1562a4b860bac"
+content-hash = "148049cae714ff31f28c49ad4baa976c33699a8970efc9cc94c6111442fe7cf5"
