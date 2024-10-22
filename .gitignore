@@ -1,6 +1,5 @@
 *.dist
 *.build
 *.ipynb_checkopoints
-*.ipynb
 *.pyc
 *.DS_Store
